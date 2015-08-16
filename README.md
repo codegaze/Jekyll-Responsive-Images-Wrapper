@@ -67,7 +67,7 @@ This creates the following html markup. As you can see we skipped the `hash` key
 
 ```
 <img src="/public/my_image.jpg"
-          data-srcset="/public/my_image_100w.jpg 100vw"
+          data-srcset="/public/my_image_100w.jpg 100w"
           sizes="(min-width: 33em) 33em, 100vw"
           class="lazy" alt="" title="" >
 
