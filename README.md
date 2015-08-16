@@ -14,7 +14,7 @@ You can copy the jekyll-responsive-images-wrapper.rb in the `_plugins` directory
 ## Configuration
 
 Open your `_config.yml` file to add the required configuration settings for this plugin.
-The required keys are the main `responsive-images-wrapper` and 'instances'.
+The required keys are the main `responsive-images-wrapper` and `instances`.
 
 **Settings example with all possible keys**
 
@@ -35,6 +35,7 @@ responsive-images-wrapper:
         hash: "_gal_2"
   sizes: "(min-width: 33em) 33em, 100vw"
   lazy_load: true
+  lazy_class: "lazy"
 
 ```
 **instances [Required]**
