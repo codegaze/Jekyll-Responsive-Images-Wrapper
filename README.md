@@ -7,10 +7,6 @@ This means that this plugin doesn't create new resized images based on given set
 
 ## Installation
 
--- There are two ways of installing this plugin: --
-
---Installing the gem in your working directory with--
-
 You can copy the jekyll-responsive-images-wrapper.rb in the `_plugins` directory.
 
 **Notice**: This plugin cannot be used with Github Pages due to security reasons.
