@@ -97,15 +97,15 @@ Another example with more attributes
 
 ## Additional Libraries
 
-* [Picturefill.js](https://github.com/scottjehl/picturefill){:target="_blank"}
+* [Picturefill.js](https://github.com/scottjehl/picturefill)
 Is the library to use, if you wish for full browser support.
 
-* [lazysizes.js](https://github.com/aFarkas/lazysizes){:target="_blank"} A javascript library to add lazy load functionality to your images.
+* [lazysizes.js](https://github.com/aFarkas/lazysizes) A javascript library to add lazy load functionality to your images.
 There is an option in the configuration to alter the `srcset` attribute to `data-srcset` to support this library.
 
 ## Additional Read
 
-* [https://responsiveimages.org/](https://responsiveimages.org/){:target="_blank"}
+* [https://responsiveimages.org/](https://responsiveimages.org/)
 
 ## TODO:
 * Create a gem for this plugin
